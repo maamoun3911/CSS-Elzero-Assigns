@@ -1,0 +1,11 @@
+p {
+    text-align: center;
+    padding: 300px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(245, 154, 18);
+    font-size: 40px;
+    text-shadow: 1px 1px 0px rgb(236, 1, 79),
+    2px 2px 0px rgb(100, 150, 236),
+    3px 3px 0px rgb(228, 1, 236);
+}

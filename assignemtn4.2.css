@@ -1,0 +1,14 @@
+p {
+    padding: 10px;
+    background-color: rgba(148, 22, 22, 0.774);
+    color: white;
+    width: fit-content
+}
+
+p.special {
+    border: 10px;
+    color: black;
+    max-width: 330px;
+    max-height: 30px;
+    overflow: visible;
+}

@@ -1,0 +1,25 @@
+div {
+    height: 400px;
+    width: 400px;
+    background-image: url("assignemnt.png");
+}
+
+.assign-2-shape-1 {
+    color: wheat;
+    background-repeat: no-repeat;
+}
+
+.assign-2-shape-2 {
+    color: whitesmoke;
+    background-repeat: repeat-y;
+}
+
+.assign-2-shape-3 {
+    color: white;
+    background-repeat: repeat-x;
+}
+
+.assign-2-shape-4 {
+    color: blueviolet;
+    background-repeat: repeat;
+}
